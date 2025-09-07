@@ -1,6 +1,56 @@
-[![wakatime](https://wakatime.com/badge/user/018dace5-5642-4ac8-88a7-2ec0a867f8a7.svg)](https://wakatime.com/@018dace5-5642-4ac8-88a7-2ec0a867f8a7)
+<h1 align="center">Hi, I'm atty303 👋</h1>
 
-[![atty303's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atty303&theme=darcula&layout=compact&langs_count=20&hide=Other&hide_title=true)](https://wakatime.com/@atty303?rank=me)
+###
 
-[![atty303's GitHub stats](https://github-readme-stats.vercel.app/api?username=atty303&theme=darcula&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atty303)](https://github.com/anuraghazra/github-readme-stats) -->
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+</div>
+
+###
+
+<p align="left">I enjoy the process of developing software more than just the business outcomes.<br>Big fan of functional programming.</p>
+
+###
+
+<h2 align="left">❤Loved techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=scala" height="40" alt="scala logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=deno" height="40" alt="denojs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<h2 align="left">✨Stats</h2>
+
+###
+
+<div align="left">
+  <a href="https://wakatime.com/@018dace5-5642-4ac8-88a7-2ec0a867f8a7"><img src="https://wakatime.com/badge/user/018dace5-5642-4ac8-88a7-2ec0a867f8a7.svg" alt="wakatime" /></a><br>
+  <a href="https://wakatime.com/@atty303?rank=me"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=atty303&theme=monokai&layout=compact&langs_count=20&hide=Other&custom_title=1-Year%20Dev%20Hours%20(incl.%20private%20repos)&hide_border=true" alt="atty303's WakaTime stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=atty303&card_width=450&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atty303&locale=en&card_width=450&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=true&order=2&custom_title=Most%20Used%20Languages%20(public%20only)" height="150" alt="languages graph"  /><br>
+</div>
+
+###
